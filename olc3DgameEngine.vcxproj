@@ -143,6 +143,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="olc3DEngine.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="olcConsoleGameEngine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
